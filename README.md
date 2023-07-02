@@ -6,5 +6,5 @@ Para poner en contexto, la guía que hice fue en base los pasos que realicé par
 
 Espero que les sea de gran ayuda.
 
-Saludos
+Saludos,
 Mauro
