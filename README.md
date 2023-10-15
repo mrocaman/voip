@@ -10,3 +10,15 @@ Espero que les sea de gran ayuda.
 
 Saludos,
 Mauro
+
+//////////////////////////////////////////////////////////////////////////////////////
+
+Hello, I am attaching an unofficial guide regarding the installation and configuration of two PBX Issabel in High Availability. This guide is based on a document developed by engineer Juan Oliva and that can be found on the Internet, and also on the doubts resolved by the Issabel team.
+
+To put it in context, the guide I made was based on the steps I took to configure a high availability system for a call center (incoming calls and outgoing calls). Issabel was installed in version 11, and the method used was the DRBD (Distributed Replicated Block Device).
+
+Update: The guide is also for Issabel with Asterisk version 16.
+
+I hope it is of great help to you.
+
+Greetings, Mauro.
